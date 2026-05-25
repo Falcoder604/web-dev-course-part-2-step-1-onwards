@@ -16,6 +16,7 @@ body {
     rgba(42, 27, 7) 100%
   );
   min-height: 100vh;
+  min-width: 200px;
 }
 
 
