@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 24px;
+  background: #514575;
+  background: linear-gradient(
+    118deg, 
+    rgba(73, 188, 134) 0%,
+    rgba(45, 133, 83) 10%, 
+    rgba(41, 86, 67) 50%, 
+    #0b422f 65%,
+    rgba(42, 27, 7) 100%
+  );
+  min-height: 100vh;
+}
+
+
+
+button,
+input,
+textarea {
+  font-family: inherit;
+}
